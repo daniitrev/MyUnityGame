@@ -47,5 +47,8 @@ TagManager:
   - name: block
     uniqueID: 4288215003
     locked: 0
+  - name: image
+    uniqueID: 3531843747
+    locked: 0
   m_RenderingLayers:
   - Default
